@@ -53,24 +53,6 @@ conda create -n nn2d python=3.10
 conda activate nn2d
 
 
-⸻
-
-📁 Project Structure
-
-├── gui.py              # Main GUI interface
-
-├── example.py          # Old example (use gui.py instead)
-
-├── nn/                 # Neural network implementation
-
-├── optimizers/         # Adam, Momentum, SGD implementations
-
-├── utils/              # Dataset generation, plotting, helpers
-
-├── requirements.txt
-
-└── README.md
-
 
 ⸻
 
