@@ -43,11 +43,6 @@ The GUI allows you to:
 	•	NumPy
 	•	Matplotlib (if used for visualization)
 
-Install dependencies:
-
-pip install -r requirements.txt
-
-
 ⸻
 
 🍏 macOS / Linux Note
